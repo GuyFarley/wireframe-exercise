@@ -1,3 +1,5 @@
+/* Header */
+
 header {
   width: 100%;
   height: 90px;
@@ -21,12 +23,16 @@ nav ul {
   font-size: 13pt;
 }
 
+/* Hero Image */
+
 #heroContainer {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 30px;
 }
+
+/* Sub Banners */
 
 #subBanners {
   display: flex;
@@ -39,6 +45,8 @@ nav ul {
   margin-left: 13px;
   margin-right: 13px;
 }
+
+/* Featured Section */
 
 #featured {
   display: flex;
@@ -86,6 +94,8 @@ nav ul {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 12pt;
 }
+
+/* Footer */
 
 footer {
   width: 100%;
